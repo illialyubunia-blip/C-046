@@ -18,5 +18,8 @@
     <ClCompile Include="C++046.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="branch1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
